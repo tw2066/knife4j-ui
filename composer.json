@@ -1,0 +1,16 @@
+{
+  "name": "tangwei/knife4j-ui",
+  "description": "knife4j UI.",
+  "keywords": [
+    "knife4j",
+    "knife4j ui"
+  ],
+  "homepage": "http://swagger.io",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "tang",
+      "email": "tw2066@163.com"
+    }
+  ]
+}
